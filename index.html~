@@ -1,0 +1,172 @@
+﻿<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>柯学翰 | 简历</title>
+    <link rel="stylesheet" href="style.css">
+    <script type="text/javascript" src="//use.typekit.net/lyj3wzr.js"></script>
+    <script type="text/javascript">
+    try {
+        Typekit.load();
+    } catch (e) {}
+    </script>
+
+    <body>
+        <div class="page">
+            <div class="section row">
+                <h1 class="col">柯学翰</h1>
+                <div><a href="http://sherlockkenan.github.io/resume/cn">中文（Chinese）</a><a href="http://sherlockkenan.github.io/resume">英文（English）</a></div>
+                <div class="contact-info col-right">
+                    <div>18217230062</div>
+                    <div>
+                        <a href="">sherlockkenan@163.com</a>
+                    </div>
+                    <div>
+                        <a href="https://github.com/sherlockkenan">github.com/sherlockkenan</a>
+                    </div>
+                </div>
+            </div>
+            <div class="section row">
+                <h2 class="col">技能</h2>
+                <div class="section-text col-right row">
+                    <ul class="skills" style="width: 80%;">
+                        <li class="skill-wrapper">
+                            <dt class="skill-level">C++</dt>
+                            <dd class="progress">
+                                <div style="width: 80%;" class="progress-bar"><span class="progress-label">8/10</span></div>
+                            </dd>
+                        </li>
+                        <li class="skill-wrapper">
+                            <dt class="skill-level">Python</dt>
+                            <dd class="progress">
+                                <div style="width: 60%;" class="progress-bar"><span class="progress-label">5/10</span></div>
+                            </dd>
+                        </li>
+                        <li class="skill-wrapper">
+                            <dt class="skill-level">HTML,Git</dt>
+                            <dd class="progress">
+                                <div style="width: 50%;" class="progress-bar"><span class="progress-label">3/10</span></div>
+                            </dd>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+          
+            <div class="section row">
+                <h2 class="col">教育经历</h2>
+                <div class="section-text col-right">
+                    <h3><span class="emph">上海交通大学</h3>
+                    <div>本科在读，主修软件工程专业</div>
+                    <div class="row">
+                        <div class="col light">中国上海</div>
+                        <div class="col-right light">2014年9月 - 2018年6月</div>
+                    </div>
+                </div>
+            </div>
+            <div class="section row">
+                <h2 class="col">项目经历</h2>
+                
+                <div class="section-text col-right">
+                    <div class="row">
+                        <div class="col">
+                            <h3><a href="https://github.com/sherlockkenan/sjtu_project/tree/master/database">基于b+树的成绩查询数据库</a></h3>
+                        </div>
+                    </div>
+                    <div class="row subsection">
+                        <div class="col-right light">2015年8月</div>
+                    </div>
+                    <div class="desc">利用b+作为索引，建立数据库，实现内存与磁盘间的读写。</div>
+                </div>
+                <div class="section-text col-right">
+                    <div class="row">
+                        <div class="col">
+                            <h3><a href="https://github.com/sherlockkenan/sjtu_project/tree/master/visualization">基于Python的网球球员数据爬取</a></h3>
+                        </div>
+                    </div>
+                    <div class="row subsection">
+                        <div class="col-right light">2015年7月</div>
+                    </div>
+                    <div class="desc">使用Python对数据进行趴取，做成可视化图形，对球员数据进行分析。</div>
+                </div>
+                <div class="section-text col-right">
+                    <div class="row">
+                        <div class="col">
+                            <h3><a href="https://github.com/sherlockkenan/sjtu_project/tree/master/lab3">BASIC 语言解析器</a></h3>
+                        </div>
+                    </div>
+                    <div class="row subsection">
+                        <div class="col-right light">2015年6月</div>
+                    </div>
+                    <div class="desc">能解析输入的basic语言，然后运行程序。</div>
+                </div>
+                <div class="section-text col-right">
+                    <div class="row">
+                        <div class="col">
+                            <h3><a href="https://github.com/sherlockkenan/Tetris">俄罗斯方块游戏</a></h3>
+                        </div>
+                    </div>
+                    <div class="row subsection">
+                        <div class="col-right light">2015年1月</div>
+                    </div>
+                    <div class="desc">
+                        在自学Python和pygame的下，根据网上教程，一步步学习，用pygame写了一个俄罗斯方块游戏。
+                    </div>
+                </div>
+                <div class="section-text col-right">
+                    <div class="row">
+                        <div class="col">
+                            <h3>更多请见Github <a href="https://github.com/sherlockkenan">github.com/sherlockkenan</a></h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="section row">
+                <h2 class="col">实践经历</h2>
+                <div class="section-text col-right">
+                    <div class="row">
+                        <div class="col">
+                            <h3>积极参加社团活动</h3>
+                        </div>
+                    </div>
+                    <div class="desc">是学校微软俱乐部的产品总监。</div>
+                </div>
+                <div class="section-text col-right">
+                    <div class="row">
+                        <div class="col">
+                            <h3>班级干部</h3>
+                        </div>
+                    </div>
+                    <div class="desc">担任班级的文体委员，组织艺术和体育方面的活动。</div>
+                </div>
+                <div class="section-text col-right">
+                    <div class="row">
+                        <div class="col">
+                            <h3>活跃的志愿者</h3>
+                        </div>
+                    </div>
+                    <div class="desc">参加过2015年上海半程马拉松等志愿者活动。</div>
+                </div>
+                
+            </div>
+        </div>
+        <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-54253120-1', 'auto');
+        ga('send', 'pageview');
+        </script>
+    </body>
+</head>
+</html>
+
