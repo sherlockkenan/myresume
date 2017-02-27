@@ -22,7 +22,22 @@
   },
   "work": [
   ],
-  "volunteer": [],
+  "volunteer": [{
+    "organization": "积极参与社团活动",
+    "summary": "担任学校微软俱乐部产品总监，技术干事"
+ },
+   {
+    "organization": "班级干部",
+    "summary": "担任班级的文体委员，组织艺术和体育方面的活动" 
+  },
+   {
+    "organization": "Hackthon 爱好者",
+    "summary": "曾参加2015 Shanghai Hackthon 活动",
+     "highlights": [
+      "参与组织微软和上交举办的Penta Hackathon 2015"
+    ]
+  }
+  ],
   "education": [
     {
       "institution": "上海交通大学",
@@ -30,13 +45,31 @@
       "studyType": "学士",
       "startDate": "2014-09",
       "endDate": "2018-06",
-      "courses": []
+      "gpa":"3.6/4.3",
+      "courses": ["程序设计课程设计--92/100","计算机系统基础--91/100","数据库原理与技术--92/100"]
+      
     }
   ],
+  "skills": [{
+    "name": "Web 开发",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "后端"
+    ]
+  },
+   {
+   "name": "Android 开发",
+    "keywords": [
+      "Java",
+      "服务器"
+    ]
+  }
+],
   "awards": [
     {
-      "title": "国家励志奖学金",
-      "date": "2015-09",
+      "title": "国家励志奖学金 ",
+      "date": "2016-09"
     },
     {
       "title": "上海交通大学",
@@ -46,55 +79,60 @@
   ],
   "publications": [
     {
-      "name": "scrala, scala下的爬虫框架",
-      "publisher": "高策",
-      "releaseDate": "2015-12",
-      "summary": "基于 Actor 模型，灵感来自 python 的爬虫框架 scrapy",
-      "website": "http://gaocegege.com/scrala/"
+      "name": "Compiler, Tiger语言的编译器", 
+      "releaseDate": "2016-12",
+      "summary": "一个小但功能齐全的编译器，能将tiger语言编译成对应的Y86指令集",
+      "website": "https://github.com/sherlockkenan/Tiger-complier"
     },
     {
-      "name": "scala-renren, 人人网关注关系可视化",
-      "publisher": "高策",
-      "releaseDate": "2015-04",
-      "summary": "基于 Actor 模型，实现了多线程爬虫并展示结果",
-      "website": "http://gaocegege.com/scala-renren/"
+      "name": "Respire, 一个关于空气质量的app应用",
+     
+      "releaseDate": "2016-10",
+      "summary": "基于硬件传感器数据，对用户的出行地点和方式进行推荐的android app",
+      "website": "https://github.com/sherlockkenan/Respire.git"
     },
     {
-      "name": "cyclone, 容器集群上的版本发布管理系统",
-      "publisher": "caicloud",
-      "releaseDate": "2016-11",
-      "summary": "300+ stars in GitHub",
-      "website": "https://github.com/caicloud/cyclone"
+      "name": "YFS, 网络文件系统",
+
+      "releaseDate": "2016-12",
+      "summary": "基于C语言编写的，可版本管理和用户登陆的远程网络文件系统",
+      "website": "https://github.com/sherlockkenan/YFS"
     },
     {
-      "name": "processing.r, Processing的R语言支持",
-      "publisher": "高策",
-      "releaseDate": "2016-09",
-      "summary": "实现了一个模块，使得 R 语言支持 Processing 的特性",
-      "website": "https://github.com/gaocegege/processing.r"
+      "name": "Grphics，变形动画",
+
+      "releaseDate": "2016-9",
+      "summary": "基于opengl，绘制变形动画的特效",
+      "website": "https://github.com/sherlockkenan/Graphics-project.git"
+    },
+    {
+      "name": "kekebookstore, Web 开发",
+      "releaseDate": "2016-06",
+      "summary": "基于ssh 框架的web 应用开发，实现网上书店的基本功能",
+      "website": "https://github.com/sherlockkenan/kekebookstore"
     }
   ],
   "languages": [],
   "interests": [
     {
-      "name": "Programming",
+      "name": "编程",
       "keywords": [
-        "Github",
-        "Scala",
-        "Blog",
-        "Hackathon",
-        "Crawler",
-        "Docker",
-        "MOOC",
-        "Distributed Systems"
+        "Java",
+        "C++/C",
+        "Python",
+        "Web",
+        "Big Data",
+        "Distributed Systems",
+        "Android",
+        "Github"     
       ]
     },
     {
-      "name": "Others",
+      "name": "其他",
       "keywords": [
-        "Swimming",
-        "Debate",
-        "Computer Game"
+        "篮球",
+        "网球",
+        "音乐"
       ]
     }
   ],

@@ -201,13 +201,13 @@
                         <div class=''>学士 - 主修软件工程专业, GPA: 3.6/4.3</div>
                         <div id='coursesBlock'>
                             <ul class='coursesList'>
-                                <li class='course'>程序设计课程设计-92/100</li>
+                                <li class='course'>程序设计课程设计--92/100</li>
                             </ul>
                             <ul class='coursesList'>
-                                <li class='course'>计算机系统基础-91/100</li>
+                                <li class='course'>计算机系统基础--91/100</li>
                             </ul>
                             <ul class='coursesList'>
-                                <li class='course'>数据库原理与技术-92/100</li>
+                                <li class='course'>数据库原理与技术--92/100</li>
                             </ul>
                         </div>
                     </div>

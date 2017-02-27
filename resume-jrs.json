@@ -1,141 +1,140 @@
 {
-    "basics": {
-        "name": "Ce Gao",
-        "label": "studying for an master degree",
-        "picture": "",
-        "email": "ce.gao@outlook.com",
-        "phone": "1592 1592 066",
-        "website": "http://gaocegege.com",
-        "location": {
+  "basics": {
+    "name": "Xuehan Ke",
+    "label": "studying for a  bachelor degree",
+    "email": "sherlockkenan@163.com",
+    "phone": "1821 7230 062",
+    "website": "http://kexuehan.com",
+    "location": {
             "address": "800 Dongchuan RD. Minhang District",
             "postalCode": "200240",
             "city": "Shanghai",
             "countryCode": "86",
             "region": "China"
-        },
-        "profiles": [{
-            "network": "GitHub",
-            "username": "gaocegege",
-            "url": "https://github.com/gaocegege"
-        }, {
-            "network": "Blog",
-            "username": "gaocegege",
-            "url": "http://gaocegege.com/Blog/"
-        }, {
-            "network": "Linkedin",
-            "username": "gaocegege",
-            "url": "http://cn.linkedin.com/in/gaocegege"
-        }]
     },
-    "work": [{
-        "company": "Alipay",
-        "position": "Java Intern",
-        "website": "https://www.alipay.com/",
-        "startDate": "2015-07",
-        "endDate": "2015-09",
-        "summary": "intern at Alipay international department",
-        "highlights": []
-    }, {
-        "company": "TouchPal",
-        "position": "Data Intern",
-        "website": "http://www.touchpal.com/index.html",
-        "startDate": "2015-09",
-        "endDate": "2015-09",
-        "summary": "intern at Data team, focusing on code migration.",
-        "highlights": []
-    }],
-    "volunteer": [],
-    "education": [{
-        "institution": "Shanghai Jiao Tong University",
-        "area": "Software Engineering",
-        "studyType": "Master",
-        "startDate": "2016-09",
-        "endDate": "2019-03",
-        "courses": []
-    }, 
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "sherlockkenan",
+        "url": "https://github.com/sherlockkenan"
+      }
+    ]
+  },
+  "work": [
+  ],
+  "volunteer": [{
+    "organization": "Actively participating in community activities",
+    "summary": "To be the product director and technology officer of the school Microsoft Club"
+ },
+   {
+    "organization": "Class cadre",
+    "summary": "AS a member who organize art and sport activities in class." 
+  },
+   {
+    "organization": "Hackthon Lover",
+    "summary": "Participated in 2015 Shanghai Hackthon ",
+     "highlights": [
+      "Participating organizations of Penta Hackathon 2015"
+    ]
+  }
+  ],
+  "education": [
     {
-        "institution": "Shanghai Jiao Tong University",
-        "area": " Major in Software Engineering",
-        "studyType": "Bachelor",
-        "startDate": "2012-09",
-        "endDate": "2016-06",
-        "courses": []
-    }, {
-        "institution": "Shanghai Jiao Tong University",
-        "area": "Minor in Law",
-        "studyType": "Bachelor",
-        "startDate": "2013-09",
-        "endDate": "2016-06",
-        "courses": []
-    }],
-    "awards": [{
-        "title": "7th China Students Service Outsourcing Innovation & Entrepreneurship Competition",
-        "date": "2016-09",
-        "awarder": "First Prize"
-    }, {
-        "title": "Interdisciplinary Contest In Modeling(ICM)",
-        "date": "2015-03",
-        "awarder": "Honorable Mention",
-        "summary": "Simulate the personnel transfer and resignation process in a company using Cellar Automata"
-    }, {
-        "title": "National Mathematical Contest in Modeling",
-        "date": "2014-11",
-        "awarder": "First Prize in Shanghai Area"
-    }, {
-        "title": "DaZhongDianPing Geek Challenge",
-        "date": "2014-07",
-        "awarder": "Second Prize & Outstanding Person",
-        "summary": "This is a hackathon hosted by DianPing, our team got 2nd prize and the R&D Offer in DaZhongDianPing."
-    }, {
-        "title": "Shanghai Jiaotong University",
-        "date": "2013-09",
-        "awarder": "Third Prize Scholarship"
-    }],
-    "publications": [{
-        "name": "scrala, a scala crawler(spider) framework, inspired by scrapy",
-        "publisher": "Ce Gao",
-        "releaseDate": "2015-12",
-        "website": "http://gaocegege.com/scrala/"
-    }, {
-        "name": "scala-renren, a graphical view of relationships between renren users",
-        "publisher": "Ce Gao",
-        "releaseDate": "2015-04",
-        "website": "http://gaocegege.com/scala-renren/"
-    }, {
-        "name": "cyclone, a release management system based on Docker",
-        "publisher": "caicloud",
-        "releaseDate": "2016-11",
-        "summary": "300+ stars in GitHub",
-        "website": "https://github.com/caicloud/cyclone"
-    }, {
-        "name": "Processing.R, R language mode for Processing",
-        "publisher": "Ce Gao",
-        "releaseDate": "2016-09",
-        "website": "https://github.com/gaocegege/processing.r"
-    }],
-    "languages": [],
-    "interests": [
+      "institution": "Shanghai Jiao Tong University",
+      "area": "Major in Software Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2014-09",
+      "endDate": "2018-06",
+      "gpa":"3.6/4.3",
+      "courses": ["Programming Course Design-92/100","Introduce Computer System-91/100","Principle and Technology of Database-92/100"]
+      
+    }
+  ],
+  "skills": [{
+    "name": "Web Development",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "back-end"
+    ]
+  },
+   {
+   "name": "Android Development",
+    "keywords": [
+      "Java",
+      "Server"
+    ]
+  }
+],
+  "awards": [
+    {
+      "title": "National Endeavor Fellowship",
+      "date": "2016-09"
+    },
+    {
+      "title": "Shanghai Jiaotong University",
+       "date": "2016-09",
+       "awarder": "Third Prize Scholarship"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Compiler, Tiger languages Compiler", 
+      "releaseDate": "2016-12",
+      "summary": "A small but functional compilers.it can compiler the Tiger language into Y86 instructions",
+      "website": "https://github.com/sherlockkenan/Tiger-complier"
+    },
+    {
+      "name": "Respire, An app about air quality",
+     
+      "releaseDate": "2016-10",
+      "summary": "Basing on data of Hardware sensor ,app recommend users where and how to go",
+      "website": "https://github.com/sherlockkenan/Respire.git"
+    },
+    {
+      "name": "YFS, Network File Systems",
+
+      "releaseDate": "2016-12",
+      "summary": "Basing on C language，it provides version management and user control",
+      "website": "https://github.com/sherlockkenan/YFS"
+    },
+    {
+      "name": "Grphics， Transformation  Animation",
+
+      "releaseDate": "2016-9",
+      "summary": "Basing on opengl， it can change one object to another",
+      "website": "https://github.com/sherlockkenan/Graphics-project.git"
+    },
+    {
+      "name": "kekebookstore, Web Development",
+      "releaseDate": "2016-06",
+      "summary": "Basig on ssh framework, it provides based function of online bookstore",
+      "website": "https://github.com/sherlockkenan/kekebookstore"
+    }
+  ],
+  "languages": [],
+  "interests": [
     {
       "name": "Programming",
       "keywords": [
-        "Github",
-        "Scala",
-        "Blog",
-        "Hackathon",
-        "Crawler",
-        "Docker",
-        "MOOC",
-        "Distributed Systems"
+        "Java",
+        "C++/C",
+        "Python",
+        "Web",
+        "Big Data",
+        "Distributed Systems",
+        "Android",
+        "Github"     
       ]
     },
     {
       "name": "Others",
       "keywords": [
-        "Swimming",
-        "Debate",
-        "Computer Game"
+        "Basketball",
+        "Tennis",
+        "Music"
       ]
     }
   ],
-    "references": []
+  "references": []
 }
