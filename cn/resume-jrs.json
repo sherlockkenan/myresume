@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "柯学翰",
+    "label": "本科生在读",
+    "email": "sherlockkenan@163.com",
+    "phone": "1821 7230 062",
+    "website": "http://kexuehan.com",
+    "location": {
+      "address": "闵行区东川路800号",
+      "postalCode": "200240",
+      "city": "上海",
+      "countryCode": "86",
+      "region": "中国"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "sherlockkenan",
+        "url": "https://github.com/sherlockkenan"
+      }
+    ]
+  },
+  "work": [
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "上海交通大学",
+      "area": "主修软件工程专业",
+      "studyType": "学士",
+      "startDate": "2014-09",
+      "endDate": "2018-06",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "国家励志奖学金",
+      "date": "2015-09",
+    },
+    {
+      "title": "上海交通大学",
+      "date": "2016-09",
+      "awarder": "三等奖学金"
+    }
+  ],
+  "publications": [
+    {
+      "name": "scrala, scala下的爬虫框架",
+      "publisher": "高策",
+      "releaseDate": "2015-12",
+      "summary": "基于 Actor 模型，灵感来自 python 的爬虫框架 scrapy",
+      "website": "http://gaocegege.com/scrala/"
+    },
+    {
+      "name": "scala-renren, 人人网关注关系可视化",
+      "publisher": "高策",
+      "releaseDate": "2015-04",
+      "summary": "基于 Actor 模型，实现了多线程爬虫并展示结果",
+      "website": "http://gaocegege.com/scala-renren/"
+    },
+    {
+      "name": "cyclone, 容器集群上的版本发布管理系统",
+      "publisher": "caicloud",
+      "releaseDate": "2016-11",
+      "summary": "300+ stars in GitHub",
+      "website": "https://github.com/caicloud/cyclone"
+    },
+    {
+      "name": "processing.r, Processing的R语言支持",
+      "publisher": "高策",
+      "releaseDate": "2016-09",
+      "summary": "实现了一个模块，使得 R 语言支持 Processing 的特性",
+      "website": "https://github.com/gaocegege/processing.r"
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Programming",
+      "keywords": [
+        "Github",
+        "Scala",
+        "Blog",
+        "Hackathon",
+        "Crawler",
+        "Docker",
+        "MOOC",
+        "Distributed Systems"
+      ]
+    },
+    {
+      "name": "Others",
+      "keywords": [
+        "Swimming",
+        "Debate",
+        "Computer Game"
+      ]
+    }
+  ],
+  "references": []
+}
