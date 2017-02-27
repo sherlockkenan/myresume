@@ -51,7 +51,15 @@
     }
   ],
   "skills": [{
-    "name": "Web 开发",
+    "name": "编程语言",
+    "keywords": [
+      "C++/C",
+      "java",
+      "python"
+    ]
+  },
+  {
+  "name": "Web 开发",
     "keywords": [
       "HTML",
       "CSS",
