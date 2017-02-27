@@ -89,7 +89,7 @@
      
       "releaseDate": "2016-10",
       "summary": "基于硬件传感器数据，对用户的出行地点和方式进行推荐的android app",
-      "website": "https://github.com/sherlockkenan/Respire.git"
+      "website": "https://github.com/sherlockkenan/Respire"
     },
     {
       "name": "YFS, 网络文件系统",
@@ -103,7 +103,7 @@
 
       "releaseDate": "2016-9",
       "summary": "基于opengl，绘制变形动画的特效",
-      "website": "https://github.com/sherlockkenan/Graphics-project.git"
+      "website": "https://github.com/sherlockkenan/Graphics-project"
     },
     {
       "name": "kekebookstore, Web 开发",
