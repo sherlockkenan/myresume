@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "柯学翰",
-    "label": "本科生在读",
+    "label": "研究生在读",
     "email": "sherlockkenan@163.com",
     "phone": "1821 7230 062",
     "website": "http://kexuehan.com",
@@ -23,7 +23,7 @@
   "work": [
   ],
   "volunteer": [{
-    "organization": "社团活动",
+    "organization": "积极参与社团活动",
     "summary": "担任学校微软俱乐部产品总监，技术干事"
  },
    {
@@ -32,34 +32,33 @@
   },
    {
     "organization": "Hackthon 爱好者",
-    "summary": "参加2015 Shanghai Hackthon 活动",
+    "summary": "曾参加2015 Shanghai Hackthon 活动",
      "highlights": [
       "参与组织微软和上交举办的Penta Hackathon 2015"
     ]
   }
   ],
   "education": [
+     {
+      "institution": "上海交通大学",
+      "area": "分布式系统方向",
+      "studyType": "硕士",
+      "startDate": "2018-09",
+      "endDate": ""   
+      
+    },
     {
       "institution": "上海交通大学",
       "area": "主修软件工程专业",
       "studyType": "学士",
       "startDate": "2014-09",
       "endDate": "2018-06",
-      "gpa":"3.6/4.3",
-      "courses": ["程序设计课程设计--92/100","计算机系统基础--91/100","数据库原理与技术--92/100"]
+      "gpa":"3.6/4.3"
       
     }
   ],
   "skills": [{
-    "name": "编程语言",
-    "keywords": [
-      "C++/C",
-      "java",
-      "python"
-    ]
-  },
-  {
-  "name": "Web 开发",
+    "name": "Web 开发",
     "keywords": [
       "HTML",
       "CSS",
@@ -87,17 +86,22 @@
   ],
   "publications": [
     {
-      "name": "Compiler, Tiger语言的编译器", 
-      "releaseDate": "2016-12",
-      "summary": "一个小但功能齐全的编译器，能将tiger语言编译成对应的Y86指令集",
-      "website": "https://github.com/sherlockkenan/Tiger-complier"
+      "name": "IPADS 实验室",
+      "releaseDate": "2017-9",
+      "summary": "分布式系统研究方向，设计计算机系统研究，图分析和图计算框架"
     },
+    {
+      "name": "open国际化,微信后台开发实习生",
+      "releaseDate": "2017-6",
+      "summary": "实习项目完成了open平台的国际化，基于现有的国际化流程，进行优化和改进，设计出适应open平台的国际化方案"
+    },
+
     {
       "name": "Respire, 一个关于空气质量的app应用",
      
-      "releaseDate": "2016-10",
+      "releaseDate": "2016-09",
       "summary": "基于硬件传感器数据，对用户的出行地点和方式进行推荐的android app",
-      "website": "https://github.com/sherlockkenan/Respire"
+      "website": "https://github.com/sherlockkenan/Respire.git"
     },
     {
       "name": "YFS, 网络文件系统",
@@ -105,13 +109,6 @@
       "releaseDate": "2016-12",
       "summary": "基于C语言编写的，可版本管理和用户登陆的远程网络文件系统",
       "website": "https://github.com/sherlockkenan/YFS"
-    },
-    {
-      "name": "Grphics，变形动画",
-
-      "releaseDate": "2016-9",
-      "summary": "基于opengl，绘制变形动画的特效",
-      "website": "https://github.com/sherlockkenan/Graphics-project"
     },
     {
       "name": "kekebookstore, Web 开发",
@@ -129,8 +126,7 @@
         "C++/C",
         "Python",
         "Web",
-        "Big Data",
-        "Distributed Systems",
+        "Linux",
         "Android",
         "Github"     
       ]
